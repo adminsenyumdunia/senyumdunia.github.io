@@ -1,0 +1,37 @@
+.header{
+    background-color:bisque;
+}
+.div{
+    text-align: center;
+}
+h1{
+    color: crimson;
+    font-family: 'Indie Flower', cursive;
+}
+h3{
+    color: crimson;
+    font-family: 'Indie Flower', cursive;
+}
+.content{
+    background-color:beige;
+}
+div {
+    text-align: justify;
+}
+.navbar-inverse {
+    background-color: #222;
+    border-color: #080808;
+}
+.footer{
+    background-color:darksalmon;
+    height: 300px;
+  }
+
+.floralwhite{ 
+    background-color: floralwhite;
+  
+}
+  
+
+
+
